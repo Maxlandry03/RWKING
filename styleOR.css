@@ -325,3 +325,17 @@ nav a:hover {
         gap: 20px;
     }
 }
+
+@media (max-width: 485px) {
+    .item-details {
+        display: flex;
+        gap: 14px;
+    }
+    .quantity {
+        padding-top: 20px;
+    }
+    .price {
+        padding-top: 65px;
+        padding-bottom: 45px;
+    }
+}
