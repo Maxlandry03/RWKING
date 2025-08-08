@@ -341,5 +341,9 @@ nav a:hover {
     .cart-item {
         display: block;
     }
+    .swiper-button-prev,
+    .swiper-button-next {
+        width: 20px;
+        height: 20px;
+    }
 }
-
