@@ -612,12 +612,6 @@
             overflow: hidden;
             /* For animation ScrollReveal */
         }
-        /* Swipper class */
-        
-        .swiper-slide-active,
-        .swiper-slide-duplicate-active {
-            scale: 1;
-        }
         /*============BUTTON========*/
         
         .button {
@@ -869,7 +863,7 @@ b widgets
         }
         
         .widgets .wrapper .flexwrap .row {
-          
+            flex: 1 1 250px;
             /* ou la largeur souhaitée */
             width: auto;
             margin-bottom: 2em;
@@ -908,5 +902,4 @@ b widgets
         .footer-info .mini-text {
             margin-top: 2em;
             text-align: center;
-
         }
