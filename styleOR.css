@@ -318,4 +318,10 @@ nav a:hover {
         display: block;
         text-align: center;
     }
+    .cart-item {
+        gap: 25px;
+    }
+    .item-info {
+        gap: 20px;
+    }
 }
