@@ -154,7 +154,7 @@ nav a:hover {
 
 .hamburger {
     display: none;
-    font-size: 50px;
+    font-size: 25px;
 }
 
 
@@ -342,3 +342,4 @@ nav a:hover {
         display: block;
     }
 }
+
