@@ -234,9 +234,6 @@ nav a:hover {
         gap: 50px;
         padding-top: 20px;
     }
-    .nav:hover {
-        color: #007bff;
-    }
     .nav.active {
         display: flex;
         background-color: #fff;
@@ -313,5 +310,12 @@ nav a:hover {
     }
     .advertise-text h2 {
         font-size: 2rem;
+    }
+    .order {
+        text-align: center;
+    }
+    .order-card {
+        display: block;
+        text-align: center;
     }
 }
