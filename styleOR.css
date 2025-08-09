@@ -351,3 +351,11 @@ nav a:hover {
         height: 20px;
     }
 }
+
+@media (max-width: 576px) {
+    .featured__card .button {
+        width: 70px;
+        height: 70px;
+        text-align: center;
+    }
+}
